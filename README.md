@@ -1,6 +1,6 @@
 #README
 
-A quick way to set up vim for JS development.
+A quick way to set up vim for development.
 
 The setup script will get updated as and when I discover more awesome stuff to use with vim!
 
@@ -11,3 +11,4 @@ A shout out and special thanks to the following github users -
 * kristijanhusak
 * crusoexia
 * pangloss
+* sahilnarain
